@@ -62,15 +62,3 @@ This project demonstrates a gesture-controlled robotic wheelchair using two Ardu
 
 ---
 
-## 📂 Code Structure
-
-/gesture-controller-master/ |-- gesture_controller.ino // MPU6050 + Bluetooth + filtering logic
-
-/wheelchair-slave/ |-- wheelchair_slave.ino // Obstacle detection + IR drop-off + motor control
-
-
----
-
-
-
-
